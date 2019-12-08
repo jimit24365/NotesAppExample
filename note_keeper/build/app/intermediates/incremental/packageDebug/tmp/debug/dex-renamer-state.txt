@@ -1,0 +1,4 @@
+#Sun Dec 08 15:33:32 IST 2019
+base.0=/Users/jimitshah/Projects/note_keeper/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
